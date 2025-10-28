@@ -4,3 +4,5 @@ in the universal DCT bases or a tailored basis like the SVD Eigenfaces basis mad
 Reconstruction of the sparsest solution is the min l1-norm solution of the convex formulation of the task (solved via CVX, (thanks to Stephen Boyd and Steven Diamond)).
 
 The reconstruction quality (as a function of the number of samples in the observation) is plot against the SSIM and PSNR figures-of-merit for both DCT and SVD.
+
+Since MATLAB crashes everytime I try to export the mlx as a pdf, I've attached an HTML file that when downloaded shows the mlx the way it's meant to be shown.
