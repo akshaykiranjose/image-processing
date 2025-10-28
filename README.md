@@ -6,3 +6,5 @@ Reconstruction of the sparsest solution is the min l1-norm solution of the conve
 The reconstruction quality (as a function of the number of samples in the observation) is plot against the SSIM and PSNR figures-of-merit for both DCT and SVD.
 
 Since MATLAB crashes everytime I try to export the mlx as a pdf, I've attached an HTML file that when downloaded shows the mlx the way it's meant to be shown.
+
+Akshay out!
